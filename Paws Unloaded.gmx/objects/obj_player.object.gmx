@@ -36,7 +36,7 @@ jspd = 10.96;
 mspd = 4.8;
 right = true;
 
-image_speed = .9;
+image_speed = .7;
 
 sTorso = spr_lee_torso;
 sArms = spr_lee_arms;
