@@ -21,5 +21,6 @@
   <height>32</height>
   <frames>
     <frame index="0">images\spr_willis_arm_rest_0.png</frame>
+    <frame index="1">images\spr_willis_arm_rest_1.png</frame>
   </frames>
 </sprite>
